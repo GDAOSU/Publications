@@ -1,8 +1,8 @@
 # Title
 Author1,Author2  
-Journal, Conference name
+Journal or Conference name
 ## Abstract
-(abstract content)
+(abstract content, figures)
 ## Conclusion
 (conclusion content)
 ## Reference
