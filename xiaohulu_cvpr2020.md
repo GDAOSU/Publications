@@ -1,4 +1,6 @@
 # Geometry-Aware Satellite-to-Ground Image Synthesis for Urban Areas
+Lu, Xiaohu, Zuoyue Li, Zhaopeng Cui, Martin R. Oswald, Marc Pollefeys, and Rongjun Qin  
+In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 859-867. 2020.
 ## Resources
 [[CODE]](https://github.com/lizuoyue/sate_to_ground)  
 [[PDF]](https://openaccess.thecvf.com/content_CVPR_2020/html/Lu_Geometry-Aware_Satellite-to-Ground_Image_Synthesis_for_Urban_Areas_CVPR_2020_paper.html)
