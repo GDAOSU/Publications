@@ -1,4 +1,4 @@
-# Title
+# (Title)
 (Author1,Author2)  
 (Journal or Conference name)
 ## Resources
