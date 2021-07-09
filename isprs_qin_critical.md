@@ -1,4 +1,4 @@
-# (A Critical Analysis of Satellite Stereo Pairs for Digital Surface Model Generation and A Matching Quality Prediction Model)
+# A Critical Analysis of Satellite Stereo Pairs for Digital Surface Model Generation and A Matching Quality Prediction Model
 Rongjun Qin  
 ISPRS Journal of Photogrammetry and Remote Sensing
 ## Resources
