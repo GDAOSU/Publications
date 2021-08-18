@@ -2,7 +2,7 @@
 Xu, Ningli, Debao Huang, Shuang Song, Xiao Ling, Chris Strasbaugh, Alper Yilmaz, Halil Sezen, and Rongjun Qin   
 International Journal of Digital Earth
 ## Resources
-[[PDF]](https://u.osu.edu/qin.324/files/2021/08/IJDE_final_version.pdf)   
+[[PDF]](https://u.osu.edu/qin.324/files/2021/08/IJDE_main_final_preprint.pdf)   
 [[VIDEO]](https://youtu.be/uLaLV6Q5El0) 
 ## Abstract
   In this paper, we present a case study that performs an unmanned aerial
